@@ -1,6 +1,6 @@
-# Main Test Repo
+# Pizza Party
 Hi this is a test repo
 
-This is the main test repo
+It's pizza-party themed
 
 la de da
